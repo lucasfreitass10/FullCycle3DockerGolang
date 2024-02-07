@@ -40,5 +40,5 @@ Os *multi-stage builds* permitem dividir a construção da imagem em duas etapas
 
 ## Compartilhe os Links
 
-- Link do repositório Git remoto: [GitHub - freitaslucas75/fullcycle-go](https://github.com/lucasfreitass10/FullCycle3DockerGolang)
+- Link do repositório Git remoto: [GitHub - freitaslucas75/fullcycle-docker-go](https://github.com/lucasfreitass10/FullCycle3DockerGolang)
 - Link da imagem no Docker Hub: [freitaslucas75/fullcycle](https://hub.docker.com/r/freitaslucas75/fullcycle)
